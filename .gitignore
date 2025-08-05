@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+config.ini
+
+# Data files
+data/
+!data/README.md  # Keep a placeholder if needed
+
+# Model files
+models/
+!models/README.md  # Keep a placeholder if needed
+
+# Cache and logs
+.cache/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
+
+# Python packaging
+*.egg-info/
+dist/
+build/

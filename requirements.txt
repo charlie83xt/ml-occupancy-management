@@ -1,0 +1,16 @@
+pandas
+numpy
+plotly
+dash
+dash-bootstrap-components
+scikit-learn
+xgboost
+tensorflow
+selenium
+beautifulsoup4
+requests
+python-dateutil
+openpyxl
+joblib
+flask
+gunicorn
