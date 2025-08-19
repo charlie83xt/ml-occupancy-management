@@ -4,9 +4,6 @@ import numpy as np
 import joblib
 from datetime import datetime, timedelta
 from pathlib import Path
-# import requests_cache
-# import openmeteo_requests
-# from retry_requests import retry
 import holidays
 from data_processor import MLPreparation
 from weather_forecast import produce_weather_forecast
